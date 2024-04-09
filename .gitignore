@@ -14,6 +14,9 @@ dotnet/.config
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+.python-version
+.vscode
+python/notebooks/notes.json
 
 # Mono auto generated files
 mono_crash.*
@@ -490,3 +493,4 @@ swa-cli.config.json
 
 # python devcontainer
 /python/.devcontainer/*
+
